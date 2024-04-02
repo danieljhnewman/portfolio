@@ -13,8 +13,8 @@ export default function Home() {
             <button className="px-4 py-1 text-sm text-black bg-white w-64 font-semibold rounded-full border border-white hover:text-black hover:bg-white hover:border-transparent focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2"><a href="/forestwalk.html">Forest Walk 2020</a></button>
           </div>
           <div className="flex flex-col text-center mx-auto max-w-5xl text-[1.5rem] justify-center">
-          <p className="pb-8">Hi, welcome to my portfolio site. Just a little something I've whipped up to showcase my web development skills.
-             I've dabbled in the field for years, I was building webpages in vanilla HTML back in the 1990s, but now I'm
+          <p className="pb-8">Hi, welcome to my portfolio site. Just a little something I&apos;ve whipped up to showcase my web development skills.
+             I&apos;ve dabbled in the field for years, I was building webpages in vanilla HTML back in the 1990s, but now I&apos;m
              working on making a career transition into software engineering.</p>
           <p className="pb-8">For instance, this is a NextJS frontend deployed to AWS Amplify. I originally built it in vanilla React, but apparently Create-React-App has since been deprecated, so I rebuilt it.
              The resume button leads to an HTML version of my resume hosted in an S3 bucket, with a hit counter implemented by a Lambda function, API Gateway, DynamoDB database, and CloudFormation just for the HTTPS support.
@@ -23,7 +23,7 @@ export default function Home() {
             600 Park Avenue is a simple HTML page for an apartment complex in Capitola, CA.
           </p>
           <p>
-            Forest Walk 2020 is a vanilla JavaScript recreation of an old, obscure Commodore 64 game. I'm sure it could have been done in some more elegant way, but I'm fairly pleased with it. If anything, it just needs more content.
+            Forest Walk 2020 is a vanilla JavaScript recreation of an old, obscure Commodore 64 game. I&apos;m sure it could have been done in some more elegant way, but I&apos;m fairly pleased with it. If anything, it just needs more content.
           </p>
         </div>
       </div>
